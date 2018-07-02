@@ -1,0 +1,7 @@
+add n parameter to isXxxVector functions
+create vignettes
+update description, include naming scheme for functions
+rename xxxAllowed parameters to xxx.ok
+put on GitHub
+add nonUniqueAllowed parameter
+add date and time types
