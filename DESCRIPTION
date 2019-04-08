@@ -6,6 +6,7 @@ Authors@R: c(person("Ivo", "Van Walle", role = c("aut", "cre"),
 Description: Utility functions that allow checking the basic validity of a function argument or any other value, 
              including generating an error and assigning a default in a single line of code. The main purpose of
              the package is to provide simple and easily readable argument checking to improve code robustness. 
+URL: https://github.com/ivwalle/checkarg
 Depends: R (>= 3.1.0)
 License: GPL (>= 2)
 Encoding: UTF-8
